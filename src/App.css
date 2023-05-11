@@ -12,6 +12,7 @@
   font-size: 20px;
   letter-spacing: 1px;
   font-size: 30px;
+  margin-bottom: 500px;
 }
 
 .header {
@@ -35,6 +36,12 @@
   margin-right: 10%;
 }
 
+.item2 {
+  margin-top: 30px;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
 .Stars {
   position: fixed;
   top:0;
@@ -49,25 +56,58 @@
 h1 {
   font-family: Saiyan, sans-serif;
   font-weight: 1;
-  background: -webkit-linear-gradient(#a7dee8, #4b4892);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  font-size: 60px;
+  font-size: 70px;
+  -webkit-text-stroke-width: 4px;
+  -webkit-text-stroke-color: black;
+  color: #ffea00
 }
 
 .side {
-  padding-top: 300px;
+  margin-top: 300px;
   font-family: Text, sans-serif;
-  color: #a7dee8;
-}
-
-.bottom {
-  font-family: Saiyan, sans-serif;
-  font-weight: 1;
-  background: -webkit-linear-gradient(#4b4892, #a7dee8);
+  background: -webkit-linear-gradient(#a7dee8, #576198);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  font-size: 60px;
+  height: 50px;
+}
+
+.title {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-family: Saiyan, sans-serif;
+  font-weight: 1;
+  font-size: 35px;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: black;
+  color: #ff0000
+}
+
+.title2 {
+  padding-top: 50px;
+  font-family: Saiyan, sans-serif;
+  font-weight: 1;
+  font-size: 45px;
+  -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-color: black;
+  color: #ff0000
+}
+
+.main {
+  font-size: 30px;
+  margin: 50px 100px;
+  font-family: Text, sans-serif;
+  background: -webkit-linear-gradient(#576198, #a7dee8);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.main2 {
+  font-size: 30px;
+  margin: 50px 100px;
+  font-family: Text, sans-serif;
+  background: -webkit-linear-gradient(#a7dee8, #576198);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 #stars {
