@@ -39,7 +39,7 @@ function App() {
           </div>
         </div>
         <p className='bottom'>GOKU'S HOME</p>
-        <h1>ON THE ETHEREM BLOCKCHAIN</h1>
+        <h1>ON THE ETHEREUM BLOCKCHAIN</h1>
         <p className='side'>With my newfound power, I can beat anyone</p>
       </body>
     </div>
