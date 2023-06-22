@@ -67,7 +67,7 @@ function App() {
         <p className='main'>
           By buying $GOKU coin, you can become part of a community that is not only passionate about the Dragon Ball Z multiverse but also dedicated to harnessing its power to achieve something greater than ourselves. So come join us on this epic adventure, and let's unlock the full potential of the dragon, together.
         </p>
-        <p className='title2'>CONTRACT RENOUNCE COMING SOON!</p>
+        <p className='title2'>CONTRACT RENOUNCED, ZERO TAX</p>
       </body>
     </div>
   );
